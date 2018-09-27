@@ -1,2 +1,6 @@
 testing
+<<<<<<< HEAD
 testing 2
+=======
+testing 3
+>>>>>>> refs/remotes/origin/master
